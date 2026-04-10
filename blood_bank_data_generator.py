@@ -26,8 +26,8 @@ Usage:
 Requirements:
     pip install pandas numpy openpyxl faker
 
-Author: [Your Name]
-GitHub: [Your GitHub]
+Author: Anna Strigana
+GitHub: https://github.com/strigana/blood-bank-data-generator.git 
 """
 
 import pandas as pd
