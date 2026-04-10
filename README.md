@@ -48,3 +48,20 @@ pip install -r requirements.txt
 
 # 3. Run the generator
 python blood_bank_data_generator.py
+
+After running, you will find all generated files in the blood_bank_data/ directory.
+Configuration
+All main parameters are located at the top of blood_bank_data_generator.py:
+
+Number of donors and donations (N_DONORS, N_DONATIONS)
+Date range
+Region weights
+Blood group distributions
+Problem rates for sample issues
+Seasonality weights, etc.
+
+Feel free to adjust them according to your needs.
+
+Author
+Created by Anna
+For educational, analytical, and demonstration purposes
