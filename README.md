@@ -22,7 +22,6 @@ You can run the generator in **two formats** — choose whichever is more conven
 
 ### Option 1: Using the Python script (.py)
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/blood-bank-data-generator.git
 cd blood-bank-data-generator
